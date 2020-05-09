@@ -8,8 +8,7 @@ Example Introduction
 
 ## Purpose
 
-Sample website with plenty of files for demos
-
+Best Purpose
 ## How to Contribute
 
 ## How to Deploy
