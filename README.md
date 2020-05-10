@@ -11,4 +11,8 @@ Example Introduction
 Best Purpose
 ## How to Contribute
 
+Added How to contribute
+
 ## How to Deploy
+
+Added Deployment Instructions
