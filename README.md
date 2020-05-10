@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Example Introduction
+Introduction needs to change
 
 ## Purpose
 
@@ -16,3 +16,7 @@ Added How to contribute
 ## How to Deploy
 
 Added Deployment Instructions
+
+## CopyRight
+
+CopyRight for Suket
