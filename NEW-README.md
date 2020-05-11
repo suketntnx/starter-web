@@ -1,10 +1,11 @@
 ## Introduction
 
+Added Introduction
 
 
 ## Purpose
 
-
+Added Purpose
 
 ## How to Contribute
 
